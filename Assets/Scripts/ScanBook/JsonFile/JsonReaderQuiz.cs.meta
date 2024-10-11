@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0bc547dfd3f32b546b7fb5246fdd3c1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jsonCarthageArabic: {instanceID: 0}
+  - jsonCarthageEnglish: {fileID: 4900000, guid: 51b95acee7f257040b0f149ca5579586, type: 3}
+  - jsonCarthageFrench: {fileID: 4900000, guid: c190ffc7a542f3c458302fcea6a085f3, type: 3}
+  - jsonMatmataArabic: {instanceID: 0}
+  - jsonMatmataEnglish: {fileID: 4900000, guid: c393c7bd50077f040a387d3c97939947, type: 3}
+  - jsonMatmataFrench: {fileID: 4900000, guid: 32a46defa6c44d1488d25f533c69777d, type: 3}
+  - jsonKSAArabic: {instanceID: 0}
+  - jsonKSAEnglish: {fileID: 4900000, guid: 9bd5855d6736adc43baa099e69aacc56, type: 3}
+  - jsonKSAFrench: {fileID: 4900000, guid: 832b2192784bb2a4cac84fecf8a127ff, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

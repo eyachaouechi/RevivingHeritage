@@ -1,0 +1,8 @@
+{
+  "infos": [
+    {
+      "id": 0,
+      "content": "Situé à Hail, en Arabie saoudite, le château A'Arif existe depuis avant 1260 AH (1840 EC). Construit en terre et en argile, il mélange différents styles architecturaux, témoignant de plusieurs siècles d'évolution. Tour Principale: Une imposante tour conique, mesurant 40 mètres de hauteur et 11 mètres de largeur, offre une vue panoramique époustouflante sur Hail et ses environs. Tour de Guet: Avec plus de 30 tours de guet dédiées à la surveillance et à la défense du château, elles regorgent d'histoires captivantes, témoignant de périodes de troubles et de sécurité. Les Remparts: Les murs épais, fondamentaux pour l'architecture défensive du château-fort, offrent une protection robuste contre les envahisseurs et les raids. Mâchicoulis et Meurtrières: Les mâchicoulis pour les archers et arbalétriers, ainsi que les meurtrières pour tirer des flèches en toute sécurité, sont des caractéristiques typiques de la défense active du château. Cour Intérieure: La cour intérieure, véritable cœur du château, servait de lieu de rassemblement pour les habitants et les nobles. Elle était le théâtre de festivités, de tournois et de célébrations historiques."
+    }  
+  ]
+}

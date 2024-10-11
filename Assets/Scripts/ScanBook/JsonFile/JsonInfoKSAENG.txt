@@ -1,0 +1,8 @@
+{
+  "infos": [
+    {
+      "id": 0,
+      "content": "Located in Hail, Saudi Arabia, A'Arif Castle has existed since before 1260 AH (1840 CE). Built from earth and clay, it blends different architectural styles, showcasing several centuries of evolution. Main Tower: A towering conical structure, measuring 40 meters in height and 11 meters in width, offers a breathtaking panoramic view of Hail and its surroundings. Watchtowers: With more than 30 watchtowers dedicated to the surveillance and defense of the castle, they are filled with captivating stories, reflecting periods of turmoil and security. Ramparts: The thick walls, fundamental to the defensive architecture of the fortress, provide robust protection against invaders and raids. Machicolations and Arrow Slits: The machicolations for archers and crossbowmen, as well as the arrow slits for shooting arrows safely, are typical features of the castle's active defense. Inner Courtyard: The inner courtyard, the true heart of the castle, served as a gathering place for residents and nobles. It was the scene of festivities, tournaments, and historical celebrations."
+    }  
+  ]
+}

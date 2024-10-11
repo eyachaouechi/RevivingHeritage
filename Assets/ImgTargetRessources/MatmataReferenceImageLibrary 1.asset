@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MatmataReferenceImageLibrary 1
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5126272065659241645
+  m_GuidHigh: 4416315448988113851
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4837498780342758276
+      m_GuidHigh: 9437366702989095359
+    m_SerializedTextureGuid:
+      m_GuidLow: 18105623949223374609
+      m_GuidHigh: 5337832523679722505
+    m_Size: {x: 1, y: 0.70695555}
+    m_SpecifySize: 1
+    m_Name: Moulin_Camel
+    m_Texture: {fileID: 2800000, guid: da43af11190dfb4409ec743466ca134a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5291384165308254358
+      m_GuidHigh: 6191861206921459614
+    m_SerializedTextureGuid:
+      m_GuidLow: 9224684205466411643
+      m_GuidHigh: 12705756959020025465
+    m_Size: {x: 1, y: 0.70695555}
+    m_SpecifySize: 1
+    m_Name: Trog
+    m_Texture: {fileID: 2800000, guid: 0ffb627ba96980047906d6e0a2ea53b0, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4909505130558670384
+      m_GuidHigh: 10655180444378561711
+    m_SerializedTextureGuid:
+      m_GuidLow: 9877601100266508744
+      m_GuidHigh: 10919340292324806523
+    m_Size: {x: 1, y: 0.70695555}
+    m_SpecifySize: 1
+    m_Name: machineTissage
+    m_Texture: {fileID: 2800000, guid: ee6491c849dd89147b4fa189244a8997, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5612853521095911188
+      m_GuidHigh: 2455072452991872174
+    m_SerializedTextureGuid:
+      m_GuidLow: 1969207470649675498
+      m_GuidHigh: 16082087829821872024
+    m_Size: {x: 1, y: 0.70695555}
+    m_SpecifySize: 1
+    m_Name: Cuisine
+    m_Texture: {fileID: 2800000, guid: e11e8eea07c21b5498572ab7ac0d2fdf, type: 3}

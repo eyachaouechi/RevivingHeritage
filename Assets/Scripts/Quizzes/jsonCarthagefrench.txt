@@ -1,0 +1,125 @@
+{
+  "questions": [
+    { 
+    "question_id": 0,
+      "question": "Comment était BaalHamon représenté visuellement ?",
+      "answers": [
+        "Il était représenté comme un jeune homme sans barbe.",
+        "Il était représenté comme un homme barbu avec des cornes de bélier..",
+        "Il était représenté comme un homme avec des plumes sur la tête.",
+        "Il était représenté comme une femme avec des cornes de bélier."
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 1,
+      "question": "Qui est Arish et quel objet recherche-t-il ?",
+      "answers": [
+        "Arish est un explorateur à la recherche de la déesse Tanit.",
+        "Arish est un prince cherchant le masque grimaçant pour se protéger.",
+        "Arish est un personnage mystérieux à la recherche du trésor d'Elyssa.",
+        "Arish est un commerçant en quête du symbole de Tanit pour son marché."
+      ],
+      "correct": 0
+    },
+    {
+      "question_id": 2,
+      "question": "Quel dieu est vénéré dans le temple d'Eshmoun ?",
+      "answers": [
+        "Baalhamon",
+        "Tanit",
+        "Eshmoun",
+        "Hannibal"
+      ],
+      "correct": 3
+    },
+    {
+      "question_id": 3,
+      "question": "Quelle était l'étendue territoriale de Carthage avant les guerres puniques ?",
+      "answers": [
+        "Seulement la Tunisie actuelle",
+        "Les côtes libyennes jusqu'à la péninsule ibérique",
+        "Seulement la Sicile occidentale",
+        "Les côtes libyennes jusqu'à la Grèce"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 4,
+      "question": "Quel est le symbole de la déesse de la fertilité vénérée par les Carthaginois ?",
+      "answers": [
+        "Le masque grimaçant",
+        "Le porte encens",
+        "Le trirème",
+        "Le symbole de Tanit"
+      ],
+      "correct": 3
+    },
+    {
+      "question_id": 5,
+      "question": "Pourquoi les Carthaginois utilisent-ils le masque grimaçant ?",
+      "answers": [
+        "Pour se protéger du mauvais sort",
+        "Comme décoration dans les temples",
+        "Comme outil de pêche",
+        "Comme arme de guerre"
+      ],
+      "correct": 0
+    },
+    {
+      "question_id": 6,
+      "question": "Où se rassemblent les Carthaginois pour discuter et échanger des idées ?",
+      "answers": [
+        "Dans les temples",
+        "Au marché",
+        "Dans les palais royaux",
+        "Sur les quais du port"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 7,
+      "question": "Qui est Hannibal et où se trouve-t-il dans les textes ?",
+      "answers": [
+        "Un général romain au marché",
+        "Un explorateur sur la colline de Byrsa",
+        "Un général carthaginois au port militaire",
+        "Un commerçant sur le pont d'une trirème"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 8,
+      "question": "Qu'est-ce qu'un trirème et pourquoi est-il important pour Carthage ?",
+      "answers": [
+        "Un masque rituel pour les cérémonies religieuses",
+        "Un bateau de guerre rapide avec trois rangées de rameurs",
+        "Une pièce de monnaie utilisée dans les échanges commerciaux",
+        "Un outil agricole utilisé pour labourer les champs"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 9,
+      "question": "Qui utilisait les éléphants au combat régulièrement et les intégra naturellement à son armée?",
+      "answers": [
+        "Ramsès II",
+        "Hannibal",
+        "Alexandre le Grand",
+        "Jules César"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 10,
+      "question": "Quelle ambiance règne dans le temple selon la description ?",
+      "answers": [
+        "Une ambiance joyeuse",
+        "Une ambiance mystique",
+        "Une ambiance sombre",
+        "Aucune ambiance"
+      ],
+      "correct": 1
+    }
+  ]
+}

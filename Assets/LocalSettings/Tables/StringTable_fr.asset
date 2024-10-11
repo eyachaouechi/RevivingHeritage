@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: a81cd15138fec554c8e3b94f60584d09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 599017226240
+    m_Localized: bonjour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12816169140224
+    m_Localized: Jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13558917464064
+    m_Localized: Scanner le sol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13761170997248
+    m_Localized: "Cr\xE9dits"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14036061487104
+    m_Localized: "Cr\xE9dits"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14278878134272
+    m_Localized: Parametres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4272465747738624
+    m_Localized: Scanner le livre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4272604126216192
+    m_Localized: Scan Sol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10159256275091456
+    m_Localized: "Pour glisser et d\xE9poser un objet suivez les \xE9tapes ci-dessous
+      :\r\n\r\n1- D\xE9placez votre appareil sur le sol pour cartographier la zone.\r\n2-
+      S\xE9lectionnez un endroit o\xF9 faire glisser votre objet.\r\n3- S\xE9lectionnez
+      l'ic\xF4ne i pour explorer les informations sur l'objet s\xE9lectionn\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10163240993914880
+    m_Localized: D'accord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11289924526768128
+    m_Localized: Suivant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11290723210330112
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11294210958655488
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11804011476123648
+    m_Localized: Faux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11809514130341888
+    m_Localized: "Quiz termin\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11833315027156992
+    m_Localized: "Capture d'\xE9cran"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11913305781534720
+    m_Localized: Quiz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61216418258595840
+    m_Localized: Centre de jeu
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

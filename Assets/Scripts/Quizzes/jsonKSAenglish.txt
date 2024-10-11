@@ -1,0 +1,70 @@
+{
+  "questions": [
+    {
+      "question_id": 0,
+      "question": "Where is A'Arif Castle located?",
+      "answers": [
+        "Riyadh, Saudi Arabia",
+        "Jeddah, Saudi Arabia",
+        "Hail, Saudi Arabia",
+        "Medina, Saudi Arabia"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 1,
+      "question": "What material was mainly used to build the castle?",
+      "answers": [
+        "Stone",
+        "Wood",
+        "Earth and clay",
+        "Concrete"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 2,
+      "question": "What is the height of A'Arif Castle's main tower?",
+      "answers": [
+        "30 meters",
+        "40 meters",
+        "50 meters",
+        "60 meters"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 3,
+      "question": "How many watchtowers are dedicated to the surveillance and defense of the castle?",
+      "answers": [
+        "More than 20",
+        "More than 30",
+        "More than 40",
+        "More than 50"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 4,
+      "question": "What was the main function of machicolations and arrow slits?",
+      "answers": [
+        "Defend the castle against fires",
+        "Offer a panoramic view of the surroundings",
+        "Shoot arrows safely",
+        "Shelter the castle's inhabitants in case of attack"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 5,
+      "question": "What was the role of the castle's inner courtyard?",
+      "answers": [
+        "Serve as a storage area for weapons",
+        "Shelter the knights' horses",
+        "Gather residents and nobles",
+        "Provide a place for religious worship"
+      ],
+      "correct": 2   
+    }
+  ]
+}

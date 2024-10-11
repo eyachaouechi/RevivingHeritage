@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Questions_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 3987c4900eee1f4459ec47784a26f4cc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 51060768768
+    m_Localized: question1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55708057600
+    m_Localized: question2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60019802112
+    m_Localized: question3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63559794688
+    m_Localized: question4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68320329728
+    m_Localized: question5
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

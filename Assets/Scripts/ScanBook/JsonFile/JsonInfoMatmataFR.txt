@@ -1,0 +1,20 @@
+{
+  "infos": [
+    {
+      "id": 0,
+      "content": "Bienvenue dans ces lieux insolites, où nos ancêtres berbères se sont distingués. Notre tribu descend des Temzit, comme l'a déclaré le grand érudit Ibn Khaldoun. Cependant, depuis des temps immémoriaux, les hommes qui peuplent le désert de l'Afrique du Nord sont désignés par le terme « Imazighen », qui peut être traduit par « hommes nobles » ou « hommes libres ». Nous sommes actuellement dans la région de Gabès, au nord du Djebel Dahar, à l'entrée de notre village très particulier de Matmata. Nous vivons en harmonie avec la Terre, principalement pour nous protéger de la chaleur et des tempêtes de sable, mais aussi pour rester à l'abri des invasions hostiles. Que ce soit les invasions hilaliennes à partir du XIe siècle, les bombardements de la Seconde Guerre mondiale ou la lutte contre l'occupant français, nos maisons troglodytes ont toujours été un refuge protecteur contre ces épreuves."
+    },
+    {
+      "id": 1,
+      "content": "Nous utilisons des jarres en terre cuite ou émaillées de différentes tailles pour conserver de grandes quantités de couscous, d'orge, de viande séchée (qadid) et d'huile d'olive. Ces jarres sont conçues pour préserver les aliments pendant de longues périodes, tout en conservant leur saveur et leur fraîcheur. Nous sommes fiers de notre artisanat traditionnel et de notre savoir-faire en matière de poterie, qui nous permet de stocker des aliments de manière efficace et durable. Les jarres sont une partie intégrante de notre culture et de notre histoire, et sont transmises de génération en génération."
+    },
+    {
+      "id": 2,
+      "content": "Depuis des millénaires, l'olive et l'huile qu'elle produit sont des trésors qui nourrissent notre peuple. Ici, dans cette huilerie, taillée dans le roc, le broyeur est installé au milieu de la grotte en face de l'entrée. Il se compose d'une cuve circulaire avec une grosse pierre cylindrique posée dessus. Cette pierre est tirée par un dromadaire, un cheval ou un âne pour écraser les olives. La pâte obtenue est chargée dans des sacs en fibres d'alfa appelés scourtins. Ces scourtins sont ensuite empilés dans un pressoir, où un levier en bois d'olivier presse la pâte pour en extraire l'huile précieuse, qui est recueillie dans des jarres. C'est ainsi que nous utilisons les ressources naturelles pour produire de l'huile d'olive de qualité depuis des générations."
+    },
+    {
+      "id": 3,
+      "content": "Au printemps, la tonte de la laine de mouton et des poils de chameaux permet la création de vêtements et de couvertures tissés. Les Berbères portent des manteaux en laine traditionnels, tels que le burnous, wezras ou houlis, selon le modèle. Les margoums, des tapis hauts en couleur, sont élaborés sur des machines à tisser situées dans des troglodytes ou en plein air lorsque le temps le permet. Les motifs symboliques, tels que la lune, le poisson ou la main de Fatma, sont incorporés dans les vêtements féminins pour protéger contre le mauvais œil."
+    }  
+  ]
+}

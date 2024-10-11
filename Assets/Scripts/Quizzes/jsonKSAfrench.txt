@@ -1,0 +1,70 @@
+{
+  "questions": [
+    {
+      "question_id": 0,
+      "question": "Où est situé le château A'Arif ?",
+      "answers": [
+        "Riyad, Arabie saoudite",
+        "Jeddah, Arabie saoudite",
+        "Hail, Arabie saoudite",
+        "Médine, Arabie saoudite"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 1,
+      "question": "Quel matériau a été principalement utilisé pour construire le château ?",
+      "answers": [
+        "Pierre",
+        "Bois",
+        "Terre et argile",
+        "Béton"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 2,
+      "question": "Quelle est la hauteur de la tour principale du château A'Arif ?",
+      "answers": [
+        "30 mètres",
+        "40 mètres",
+        "50 mètres",
+        "60 mètres"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 3,
+      "question": "Combien de tours de guet sont dédiées à la surveillance et à la défense du château ?",
+      "answers": [
+        "Plus de 20",
+        "Plus de 30",
+        "Plus de 40",
+        "Plus de 50"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 4,
+      "question": "Quelle était la fonction principale des mâchicoulis et des meurtrières ?",
+      "answers": [
+        "Défendre le château contre les incendies",
+        "Offrir une vue panoramique sur les environs",
+        "Tirer des flèches en toute sécurité",
+        "Abriter les habitants du château en cas d'attaque"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 5,
+      "question": "Quel était le rôle de la cour intérieure du château ?",
+      "answers": [
+        "Servir de zone de stockage pour les armes",
+        "Abriter les chevaux des chevaliers",
+        "Rassembler les habitants et les nobles",
+        "Fournir un lieu de culte religieux"
+      ],
+      "correct": 2   
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 7d0aaa85609992d43ac46d6993e52b80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arSession: {instanceID: 0}
+  - arCameraTransform: {instanceID: 0}
+  - jsonReader: {instanceID: 0}
+  - textJSONCarthageAr: {instanceID: 0}
+  - textJSONCarthageEng: {fileID: 4900000, guid: fbd307f1960bf054c8959f38759fbe0f, type: 3}
+  - textJSONCarthageFr: {fileID: 4900000, guid: 024d48a39fbbd874a89a8e9cf95bc2a0, type: 3}
+  - textJSONMatmataAr: {instanceID: 0}
+  - textJSONMatmataEng: {fileID: 4900000, guid: 76e90db90d621dd47875d7a1c6941937, type: 3}
+  - textJSONMatmataFr: {fileID: 4900000, guid: deb684c692a8c404d85a182294dde979, type: 3}
+  - textJSONKSAAr: {instanceID: 0}
+  - textJSONKSAEng: {fileID: 4900000, guid: 9b6657940a870d0438046636d88e17c9, type: 3}
+  - textJSONKSAFr: {fileID: 4900000, guid: e2eaf04721523784b9ac1c6be5fe478e, type: 3}
+  - referenceLibraryCarthage: {instanceID: 0}
+  - referenceLibraryMatmata: {instanceID: 0}
+  - referenceLibraryKSA: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

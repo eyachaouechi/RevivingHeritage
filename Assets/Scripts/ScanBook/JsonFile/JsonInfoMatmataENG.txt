@@ -1,0 +1,20 @@
+{
+  "infos": [
+    {
+      "id": 0,
+      "content": "Welcome to these unusual places, where our Berber ancestors distinguished themselves. Our tribe descends from the Temzit, as declared by the great scholar Ibn Khaldoun. However, since time immemorial, the people who inhabit the desert of North Africa have been referred to as 'Imazighen,' which can be translated as 'noble men' or 'free men.' We are currently in the region of Gabès, north of Djebel Dahar, at the entrance of our very special village of Matmata. We live in harmony with the Earth, mainly to protect ourselves from the heat and sandstorms, but also to stay safe from hostile invasions. Whether it was the Hilalian invasions from the 11th century, the bombings of the Second World War, or the struggle against the French occupiers, our troglodyte homes have always been a protective refuge against these trials."
+    },
+    {
+      "id": 1,
+      "content": "We use earthenware or glazed jars of various sizes to store large quantities of couscous, barley, dried meat (qadid), and olive oil. These jars are designed to preserve food for long periods while maintaining their flavor and freshness. We take pride in our traditional craftsmanship and expertise in pottery, which allows us to store food efficiently and sustainably. The jars are an integral part of our culture and history, and are passed down from generation to generation."
+    },
+    {
+      "id": 2,
+      "content": "For millennia, the olive and the oil it produces have been treasures that nourish our people. Here, in this oil mill carved into the rock, the grinder is installed in the middle of the cave facing the entrance. It consists of a circular basin with a large cylindrical stone placed on top. This stone is pulled by a dromedary, a horse, or a donkey to crush the olives. The resulting paste is loaded into alfa fiber bags called scourtins. These scourtins are then stacked in a press, where an olive wood lever presses the paste to extract the precious oil, which is collected in jars. This is how we have been using natural resources to produce quality olive oil for generations."
+    },
+    {
+      "id": 3,
+      "content": "In the spring, the shearing of sheep's wool and camel hair allows for the creation of woven clothing and blankets. The Berbers wear traditional woolen coats, such as the burnous, wezras, or houlis, depending on the style. The margoums, colorful rugs, are crafted on looms located in troglodytes or outdoors when the weather permits. Symbolic patterns, such as the moon, fish, or the Hand of Fatima, are incorporated into women's clothing to protect against the evil eye."
+    }  
+  ]
+}

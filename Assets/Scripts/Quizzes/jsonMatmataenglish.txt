@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "question_id": 0,
+      "question": "Where is the troglodyte village of Matmata located?",
+      "answers": [
+        "In Egypt",
+        "North of Djebel Dahar",
+        "In Saudi Arabia",
+        "In Algeria"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 1,
+      "question": "What term is used to refer to the inhabitants of the North African desert?",
+      "answers": [
+        "Imazighen",
+        "Berbers",
+        "Tuaregs",
+        "Arabs"
+      ],
+      "correct": 0
+    },
+    {
+      "question_id": 2,
+      "question": "What is the main use of earthenware or glazed jars?",
+      "answers": [
+        "To store water",
+        "To preserve food",
+        "To decorate houses",
+        "To make kitchen utensils"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 3,
+      "question": "Which food is NOT mentioned as being preserved in the jars?",
+      "answers": [
+        "Couscous",
+        "Barley",
+        "Fresh vegetables",
+        "Olive oil"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 4,
+      "question": "How is the cylindrical stone in the oil mill pulled to crush the olives?",
+      "answers": [
+        "By an electric motor",
+        "By a dromedary, a horse, or a donkey",
+        "By men",
+        "By an automated machine"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 5,
+      "question": "Where is the precious olive oil collected after being pressed?",
+      "answers": [
+        "In plastic bags",
+        "In metal cans",
+        "In glass bottles",
+        "In jars"
+      ],
+      "correct": 3
+    },
+    {
+      "question_id": 6,
+      "question": "What material is mainly used to create woven clothing and blankets?",
+      "answers": [
+        "Cotton",
+        "Linen",
+        "Sheep's wool and camel hair",
+        "Silk"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 7,
+      "question": "Where are the colorful rugs called margoums crafted?",
+      "answers": [
+        "On outdoor looms",
+        "In modern factories",
+        "In pottery workshops",
+        "In traditional fabric stores"
+      ],
+      "correct": 0
+    }
+  ]
+}

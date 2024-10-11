@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "question_id": 0,
+      "question": "Où se situe le village troglodyte de Matmata ?",
+      "answers": [
+        "En Égypte",
+        "Au nord du Djebel Dahar",
+        "En Arabie saoudite",
+        "En Algérie"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 1,
+      "question": "Quel terme est utilisé pour désigner les habitants du désert de l'Afrique du Nord ?",
+      "answers": [
+        "Imazighen",
+        "Berbères",
+        "Touaregs",
+        "Arabes"
+      ],
+      "correct": 0
+    },
+    {
+      "question_id": 2,
+      "question": "Quel est l'usage principal des jarres en terre cuite ou émaillée ?",
+      "answers": [
+        "Stocker de l'eau",
+        "Conserver des aliments",
+        "Décorer les maisons",
+        "Fabriquer des ustensiles de cuisine"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 3,
+      "question": "Quel aliment n'est PAS mentionné comme étant conservé dans les jarres ?",
+      "answers": [
+        "Couscous",
+        "Orge",
+        "Légumes frais",
+        "Huile d'olive"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 4,
+      "question": "Comment est tirée la pierre cylindrique dans l'huilerie pour écraser les olives ?",
+      "answers": [
+        "Par un moteur électrique",
+        "Par un dromadaire, un cheval ou un âne",
+        "Par des hommes",
+        "Par une machine automatisée"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 5,
+      "question": "Où est recueillie l'huile d'olive précieuse après avoir été pressée ?",
+      "answers": [
+        "Dans des sacs en plastique",
+        "Dans des bidons métalliques",
+        "Dans des bouteilles en verre",
+        "Dans des jarres"
+      ],
+      "correct": 3
+    },
+    {
+      "question_id": 6,
+      "question": "Quel matériau est principalement utilisé pour créer des vêtements et des couvertures tissées ?",
+      "answers": [
+        "Coton",
+        "Lin",
+        "Laine de mouton et poils de chameaux",
+        "Soie"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 7,
+      "question": "Où sont élaborés les tapis hauts en couleur appelés margoums ?",
+      "answers": [
+        "Sur des métiers à tisser en plein air",
+        "Dans des usines modernes",
+        "Dans des ateliers de poterie",
+        "Dans des magasins de tissus traditionnels"
+      ],
+      "correct": 0
+    }
+  ]
+}

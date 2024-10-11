@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringTable
+  m_TableCollectionNameGuidString: a81cd15138fec554c8e3b94f60584d09
+  m_Entries:
+  - m_Id: 599017226240
+    m_Key: firstKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12816169140224
+    m_Key: Playkey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13558917464064
+    m_Key: ScanKeyy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13761170997248
+    m_Key: Creditskey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14036061487104
+    m_Key: Tutorialkey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14278878134272
+    m_Key: Settingskey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4272465747738624
+    m_Key: ScanKey1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4272604126216192
+    m_Key: ScanKey2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10159256275091456
+    m_Key: ScanGround
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10163240993914880
+    m_Key: ConfirmBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11289924526768128
+    m_Key: NextBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11290723210330112
+    m_Key: ScoreTxt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11294210958655488
+    m_Key: Resultat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11804011476123648
+    m_Key: fail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11809514130341888
+    m_Key: Quiz Result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11833315027156992
+    m_Key: captureBtn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11913305781534720
+    m_Key: QuizText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61216418258595840
+    m_Key: GameHUB
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 400259077518917656
+  references:
+    version: 2
+    RefIds:
+    - rid: 400259077518917656
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1708799934805

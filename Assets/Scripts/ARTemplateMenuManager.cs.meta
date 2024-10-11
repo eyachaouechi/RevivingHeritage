@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 85fd75be7e01c3c479b8f34929019ab3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arSession: {instanceID: 0}
+  - m_CreateButton: {instanceID: 0}
+  - contentCarthage: {instanceID: 0}
+  - contentMatmata: {instanceID: 0}
+  - contentKSA: {instanceID: 0}
+  - jsonReader: {instanceID: 0}
+  - textJSONCarthageAr: {fileID: 4900000, guid: bdb70968d5385464ea004f2a21d58de9, type: 3}
+  - textJSONCarthageEng: {fileID: 4900000, guid: fbd307f1960bf054c8959f38759fbe0f, type: 3}
+  - textJSONCarthageFr: {fileID: 4900000, guid: 024d48a39fbbd874a89a8e9cf95bc2a0, type: 3}
+  - textJSONMatmataAr: {fileID: 4900000, guid: eb0b562a6c65c17438dfb9b1454a58d8, type: 3}
+  - textJSONMatmataEng: {fileID: 4900000, guid: 76e90db90d621dd47875d7a1c6941937, type: 3}
+  - textJSONMatmataFr: {fileID: 4900000, guid: deb684c692a8c404d85a182294dde979, type: 3}
+  - textJSONKSAAr: {fileID: 4900000, guid: 07ffce0bec69b294c962eae6629f472b, type: 3}
+  - textJSONKSAEng: {fileID: 4900000, guid: 9b6657940a870d0438046636d88e17c9, type: 3}
+  - textJSONKSAFr: {fileID: 4900000, guid: e2eaf04721523784b9ac1c6be5fe478e, type: 3}
+  - m_DeleteButton: {instanceID: 0}
+  - m_ObjectMenu: {instanceID: 0}
+  - m_CancelButton: {instanceID: 0}
+  - createBtn: {instanceID: 0}
+  - arRaycastManager: {instanceID: 0}
+  - arCameraTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

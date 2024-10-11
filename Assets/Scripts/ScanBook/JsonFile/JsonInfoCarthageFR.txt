@@ -1,0 +1,48 @@
+{
+  "infos": [
+    {
+      "id": 0,
+      "content": "Baal Hammon , plus précisément Baʿal Ḥamon  signifiant « Seigneur Hammon », était le dieu principal de Carthage . Il était un dieu du temps considéré comme responsable de la fertilité de la végétation et estimé comme le roi des dieux . Il était représenté comme un homme âgé barbu avec des cornes de bélier bouclées. La partenaire de culte féminine de Baʿal Ḥamon était Tanit."
+    },
+    {
+      "id": 1,
+      "content": "Bienvenue dans le temple d’Eshmoun, le dieu protecteur qui du haut de la colline de Byrsa veille sur la ville de Qart-ḥadasht ou Carthage qui signifie en phénicien « La Nouvelle ville »."
+    },
+    {
+      "id": 2,
+      "content": "Bonjour, je m’appelle Arish, Tu viens de très loin à ce que je vois, et je crois que tu es à la recherche d’objets précieux … Emmm… Tout le monde parle du trésor d’Elyssa, mais seule une personne dotée du courage, de l’intelligence et du patriotisme de la princesse phénicienne pourra retrouver son trésor à Elyssa pourra trouver son trésor."
+    },
+    {
+      "id": 3,
+      "content": "Les éléphants d’Hannibal sont des géants redoutables au combat .Les Carthaginois les utilisaient régulièrement, et Hannibal en dota tout naturellement son armée."
+    },
+    {
+      "id": 4,
+      "content": "Ceci est la carte de Carthage que les sénateurs consultent quand ils se réunissent dans le temple d’Eshmoun pour discuter des questions importantes. Avant les deux première guerres puniques, le domaine de Carthage s'étendait des côtes libyennes jusqu’aux côtes de la péninsule ibérique. La Corse, la Sardaigne, les îles Baléares et la Sicile occidentale faisaient aussi partie de nos terres."
+    },
+    {
+      "id": 5,
+      "content": "Au marché, l’activité commerciale est intense et diversifiée. Des produits de toutes la méditerranée passent par ici. Les Carthaginois se rassemblent aussi dans le forum pour discuter et échanger des idées."
+    },
+    {
+      "id": 6,
+      "content": "Le masque grimaçant est fait en terre cuite, les carthaginois l’utilise pour se protéger du mauvais sort. Ce porte-bonheur t’aidera peut-être dans ta mission."
+    },
+    {
+      "id": 7,
+      "content": "Une ambiance mystique règne dans le temple, une odeur parfumée remplit l’espace, une lumière transperce la fumée qui s’émane du porte encens, un grand événement se prépare aujourd’hui."
+    },
+    {
+      "id": 8,
+      "content": "TANIT est la déesse de la fertilité que les carthaginois vénèrent depuis des centaines d’années. Tu retrouveras son symbole un peu partout dans la ville. Elle est souvent associée à Baalhamon, Dieu de la fécondité et de la récolte."
+    },
+    {
+      "id": 9,
+      "content": "Le Général Hannibal se tient sur le pont du port militaire Carthaginois, il est en train de préparer une nouvelle stratégie pour protéger et développer la République de Carthage."
+    },
+    {
+      "id": 10,
+      "content": "Le trirème, joyau de la force militaire Carthaginoises, compte trois pontons et 90 rameurs. Avec les trirèmes et les quinquérèmes, les Carthaginois sont les plus rapides en mer."
+    }
+  ]
+}

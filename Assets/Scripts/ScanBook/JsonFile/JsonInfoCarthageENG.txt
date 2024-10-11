@@ -1,0 +1,48 @@
+{
+  "infos": [
+    {
+      "id": 0,
+      "content": "Baal Hammon, properly Baʿal Ḥamon meaning \"Lord Hammon\", was the chief god of Carthage. He was a weather god considered responsible for the fertility of vegetation and esteemed as King of the Gods. He was depicted as a bearded older man with curling ram's horns. Baʿal Ḥammon's female cult partner was Tanit."
+    },
+    {
+      "id": 1,
+      "content": "Welcome to the temple of Eshmoun, the protective god who, from atop the hill of Byrsa, watches over the city of Qart-ḥadasht or Carthage, which means in Phoenician ‘The New City’."
+    },
+    {
+      "id": 2,
+      "content": "Hello, my name is Arish. You’ve come from very far, I see, and I believe you’re in search of precious objects… Hmm… Everyone talks about the treasure of Elyssa, but only a person with the courage, intelligence, and patriotism of the Phoenician princess can find her treasure at Elyssa."
+    },
+    {
+      "id": 3,
+      "content": "Hannibal elephants known as the formidable giants in combat. They used to be the army of the Carthaginians and Hannibal especially."
+    },
+    {
+      "id": 4,
+      "content": "This is the map of Carthage that the senators consult when they gather in the temple of Eshmoun to discuss important matters. Before the first two Punic Wars, the domain of Carthage stretched from the Libyan coast to the shores of the Iberian Peninsula. Corsica, Sardinia, the Balearic Islands, and western Sicily were also part of our lands."
+    },
+    {
+      "id": 5,
+      "content": "At the market, commercial activity is intense and diverse. Products from all over the Mediterranean pass through here. The Carthaginians also gather in the forum to discuss and exchange ideas."
+    },
+    {
+      "id": 6,
+      "content": "The grimacing mask is made of terracotta; the Carthaginians use it to protect themselves from evil spirits. This lucky charm might help you on your mission."
+    },
+    {
+      "id": 7,
+      "content": "A mystical ambiance fills the temple, a fragrant scent fills the space, light pierces through the smoke emanating from the incense burner, a grand event is underway today."
+    },
+    {
+      "id": 8,
+      "content": "TANIT is the fertility goddess worshipped by the Carthaginians for hundreds of years. You will find her symbol everywhere in the city. She is often associated with Baalhamon, the God of fertility and harvest."
+    },
+    {
+      "id": 9,
+      "content": "General Hannibal stands on the bridge of the Carthaginian military port, preparing a new strategy to protect and develop the Republic of Carthage."
+    },
+    {
+      "id": 10,
+      "content": "The trireme, jewel of Carthaginian military strength, has three decks and 90 oarsmen. With triremes and quinqueremes, the Carthaginians are the fastest at sea."
+    }
+  ]
+}

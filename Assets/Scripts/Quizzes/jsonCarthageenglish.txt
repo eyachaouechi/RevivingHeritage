@@ -1,0 +1,125 @@
+{
+  "questions": [
+  {
+      "question_id": 0,
+      "question": "How was BaalHamon visually represented?",
+      "answers": [
+        "He was depicted as a young man without a beard.",
+        "He was depicted as a bearded man with ram's horns.",
+        "He was depicted as a man with feathers on his head.",
+        "He was depicted as a woman with ram's horns."
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 1,
+      "question": "Who is Arish and what object is he searching for?",
+      "answers": [
+        "Arish is an explorer seeking the goddess Tanit.",
+        "Arish is a prince looking for the grimacing mask to protect himself.",
+        "Arish is a mysterious figure searching for Elyssa's treasure.",
+        "Arish is a merchant seeking the symbol of Tanit for his market."
+      ],
+      "correct": 0
+    },
+    {
+      "question_id": 2,
+      "question": "Which god is worshipped in the temple of Eshmoun?",
+      "answers": [
+        "Baalhamon",
+        "Tanit",
+        "Eshmoun",
+        "Hannibal"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 3,
+      "question": "What was the territorial extent of Carthage before the Punic Wars?",
+      "answers": [
+        "Only present-day Tunisia",
+        "The Libyan coast to the Iberian Peninsula",
+        "Only western Sicily",
+        "The Libyan coast to Greece"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 4,
+      "question": "What is the symbol of the fertility goddess worshipped by the Carthaginians?",
+      "answers": [
+        "The grimacing mask",
+        "The incense burner",
+        "The trireme",
+        "The symbol of Tanit"
+      ],
+      "correct": 3
+    },
+    {
+      "question_id": 5,
+      "question": "Why do the Carthaginians use the grimacing mask?",
+      "answers": [
+        "To protect themselves from evil spirits",
+        "As decoration in temples",
+        "As a fishing tool",
+        "As a weapon of war"
+      ],
+      "correct": 0
+    },
+    {
+      "question_id": 6,
+      "question": "Where do the Carthaginians gather to discuss and exchange ideas?",
+      "answers": [
+        "In the temples",
+        "At the market",
+        "In the royal palaces",
+        "On the docks of the harbor"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 7,
+      "question": "Who is Hannibal and where is he found in the texts?",
+      "answers": [
+        "A Roman general at the market",
+        "An explorer on the hill of Byrsa",
+        "A Carthaginian general at the military port",
+        "A merchant on the deck of a trireme"
+      ],
+      "correct": 2
+    },
+    {
+      "question_id": 8,
+      "question": "What is a trireme and why is it important to Carthage?",
+      "answers": [
+        "A ritual mask for religious ceremonies",
+        "A fast warship with three rows of oarsmen",
+        "A coin used in trade",
+        "An agricultural tool used to plow fields"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 9,
+      "question": "Who regularly used elephants in combat and naturally integrated them into his army?",
+      "answers": [
+        "Ramses II",
+        "Hannibal",
+        "The Great Alexander",
+        "Julius Caesar"
+      ],
+      "correct": 1
+    },
+    {
+      "question_id": 10,
+      "question": "What kind of ambiance fills the temple according to the description?",
+      "answers": [
+        "A joyful ambiance",
+        "A mystical ambiance",
+        "A dark ambiance",
+        "No ambiance"
+      ],
+      "correct": 1
+    }
+  ]
+}
